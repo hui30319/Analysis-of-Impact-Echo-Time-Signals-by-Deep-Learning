@@ -1,0 +1,13 @@
+$---+----1----+----2----+----3----+----4----+----5----+----6----+----7----+----8
+$                                                                              $
+$                        BOUNDARY NON REFLECTING CARDS                         $
+$                                                                              $
+$---+----1----+----2----+----3----+----4----+----5----+----6----+----7----+----8
+*BOUNDARY_NON_REFLECTING
+$^NON-REFLECTING CARD 1
+$     SSID        AD        AS
+         1       0.0       0.0
+*BOUNDARY_NON_REFLECTING
+$^NON-REFLECTING CARD 2
+$     SSID        AD        AS
+         2       0.0       0.0
